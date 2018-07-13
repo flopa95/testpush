@@ -1,3 +1,1 @@
-print ("hello banan cookie")
-
-print ("why is it not working")
+print ("This is a test of the VS Code Git Feature")
